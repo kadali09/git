@@ -1,0 +1,1 @@
+For mac first time, when you are prompted for a password when you pushing the code to your repo, enter the access token, It will add the token in the keychain and it won't prompt again
