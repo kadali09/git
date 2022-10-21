@@ -1,0 +1,2 @@
+Same experience as @Prhyme. I am not able to get git to prompt me for username and password, even trying to clone private repos, push to repos, etc. 
+When I go to push to a repo, it continues to give the "Support for password authentication was removed" message, without prompting for anything
